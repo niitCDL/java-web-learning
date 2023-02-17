@@ -9,6 +9,7 @@
 
     <modules>
         <module>request-learning</module>
+        <module>servlet-learning</module>
     </modules>
 
     <name>java-web-learning Maven Plugin</name>
